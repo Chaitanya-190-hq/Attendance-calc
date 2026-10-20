@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+package.json
+screenshot.js
+check.js
+verify.js
+test-results
+artifacts/preview.png
+assets
+.env
+.env.local
